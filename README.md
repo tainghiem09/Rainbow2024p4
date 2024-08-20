@@ -10,3 +10,4 @@ Violet
 and a cute little Teddy Bear
 and a very ugly little Teddy Bear :(
 The ugly Teddy Bear was sadly looked down upon by the cute Teddy Bear
+But the first Teddy Bear held his head high and proclaimed he was not ugly
